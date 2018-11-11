@@ -1,0 +1,2 @@
+# flask_opencv_ohayo
+PythonでFlaskでOpenCVでアップロードされた画像を`detectMultiScale`して保存して表示
